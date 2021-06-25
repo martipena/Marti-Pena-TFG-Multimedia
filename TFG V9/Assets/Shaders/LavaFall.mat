@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LavaFall
+  m_Shader: {fileID: -6465566751694194690, guid: 32baf17b4ceeb9141a9d78a75d1b73ad,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_37F71209:
+        m_Texture: {fileID: 2800000, guid: ff84c0b1fb6023145b93f27185fc392f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FFA63C63:
+        m_Texture: {fileID: 2800000, guid: 9b482e018ea3c44478c04737a22ea63b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_23C43EA6: 0.7
+    - Vector1_2A1210F8: 20
+    - Vector1_3EAF9DDD: 10
+    - Vector1_3F8F9791: 1.5
+    - Vector1_54DECBDB: 100
+    - Vector1_5B8EF040: 0.5
+    - Vector1_67A033F2: 0.05
+    - Vector1_8065696A: 1.5
+    - Vector1_8B780DCF: 0
+    - Vector1_9C1097E4: -0.2
+    m_Colors:
+    - Color_2665749C: {r: 2.0907834, g: 0.59778893, b: 0.58186895, a: 1}
+    - Color_96410448: {r: 14.680818, g: 6.09465, b: 1.0387369, a: 1}
+    - Vector2_1FAC8BBA: {r: 0, g: 0.075, b: 0, a: 0}
+    - Vector2_44CDCD0C: {r: 6, g: 8, b: 0, a: 0}
+    - Vector2_5E17182C: {r: 0, g: 0.05, b: 0, a: 0}
+    - Vector2_9C2C7784: {r: 0, g: 0.01, b: 0, a: 0}
+    - Vector2_CBA844D6: {r: -0.07, g: 1.9, b: 0, a: 0}
+    - Vector2_DFCCD7DA: {r: -1, g: 1.26, b: 0, a: 0}
+    - Vector2_EC13073C: {r: 0, g: 1, b: 0, a: 0}

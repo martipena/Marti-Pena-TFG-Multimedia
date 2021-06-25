@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - climbable
+  - fred
+  - templat
+  - calor
+  - extremaCalor
+  - pal
+  - foc
+  - torch
+  - focTorch
+  - foguera
+  - water
+  - swim
+  - espasa
+  - sword
+  - log
+  - enemy
+  - outOfBound
+  - moure
+  - cubGel
+  - iceCube
+  - sandStorm
+  - blizzard
+  - save
+  - load
+  - FireRock
+  - tutEscalada
+  - surtCova
+  - sparkleFinal
+  - hpUp
+  - staUp
+  - doubleJump
+  - moonJump
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Climb
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
